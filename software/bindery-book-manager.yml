@@ -1,0 +1,12 @@
+name: Bindery
+website_url: https://getbindery.dev
+source_code_url: https://github.com/vavallee/bindery
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Media Management
+  - Document Management - E-books
+description: "Ebook and audiobook manager for Usenet and BitTorrent users. You pick authors to track; new books get searched on your indexers, sent to your download client, and sorted into your library. (alternative to Readarr)"
